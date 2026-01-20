@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Classroom",
+    "description": "Standard classroom for lectures"
+  },
+  {
+    "id": "2",
+    "name": "Lab",
+    "description": "Laboratory for practical sessions"
+  },
+  {
+    "id": "3",
+    "name": "Auditorium",
+    "description": "Large hall for events and presentations"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "resourceId": "1",
+    "maintenanceType": "Routine Inspection",
+    "scheduledDate": "2024-02-25T10:00:00Z",
+    "status": "Scheduled",
+    "notes": "Monthly routine checkup"
+  },
+  {
+    "id": "2",
+    "resourceId": "2",
+    "maintenanceType": "Equipment Repair",
+    "scheduledDate": "2024-02-20T14:00:00Z",
+    "status": "In Progress",
+    "notes": "Fixing projector connectivity issues"
+  },
+  {
+    "id": "3",
+    "resourceId": "3",
+    "maintenanceType": "Deep Cleaning",
+    "scheduledDate": "2024-02-28T09:00:00Z",
+    "status": "Scheduled",
+    "notes": "Quarterly deep cleaning"
+  },
+  {
+    "id": "4",
+    "resourceId": "5",
+    "maintenanceType": "Safety Check",
+    "scheduledDate": "2024-02-15T11:00:00Z",
+    "status": "Completed",
+    "notes": "All safety equipment verified"
+  }
+]

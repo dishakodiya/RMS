@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "John Admin",
+    "email": "admin@rms.com",
+    "role": "Admin",
+    "createdAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Jane Approver",
+    "email": "approver@rms.com",
+    "role": "Approver",
+    "createdAt": "2024-01-16T11:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Bob User",
+    "email": "user@rms.com",
+    "role": "User",
+    "createdAt": "2024-01-17T12:00:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Alice Smith",
+    "email": "alice@rms.com",
+    "role": "User",
+    "createdAt": "2024-01-18T09:00:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Charlie Brown",
+    "email": "charlie@rms.com",
+    "role": "Approver",
+    "createdAt": "2024-01-19T14:00:00Z"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "shelfNumber": 1,
+    "capacity": 50,
+    "description": "Top shelf for small items",
+    "cupboardId": "1"
+  },
+  {
+    "id": "2",
+    "shelfNumber": 2,
+    "capacity": 50,
+    "description": "Second shelf for documents",
+    "cupboardId": "1"
+  },
+  {
+    "id": "3",
+    "shelfNumber": 1,
+    "capacity": 30,
+    "description": "Equipment storage",
+    "cupboardId": "2"
+  },
+  {
+    "id": "4",
+    "shelfNumber": 1,
+    "capacity": 40,
+    "description": "Audio equipment storage",
+    "cupboardId": "3"
+  },
+  {
+    "id": "5",
+    "shelfNumber": 1,
+    "capacity": 25,
+    "description": "Chemical storage",
+    "cupboardId": "4"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Classroom 101",
+    "resourceTypeId": "1",
+    "buildingId": "1",
+    "floorNumber": 1,
+    "description": "Standard classroom with 50 seats"
+  },
+  {
+    "id": "2",
+    "name": "Computer Lab A",
+    "resourceTypeId": "2",
+    "buildingId": "2",
+    "floorNumber": 2,
+    "description": "Computer lab with 30 workstations"
+  },
+  {
+    "id": "3",
+    "name": "Grand Auditorium",
+    "resourceTypeId": "3",
+    "buildingId": "1",
+    "floorNumber": 1,
+    "description": "Large auditorium with 500 seats"
+  },
+  {
+    "id": "4",
+    "name": "Classroom 205",
+    "resourceTypeId": "1",
+    "buildingId": "1",
+    "floorNumber": 2,
+    "description": "Medium classroom with 30 seats"
+  },
+  {
+    "id": "5",
+    "name": "Chemistry Lab",
+    "resourceTypeId": "2",
+    "buildingId": "2",
+    "floorNumber": 3,
+    "description": "Chemistry laboratory with safety equipment"
+  }
+]

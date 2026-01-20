@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Storage Cupboard A",
+    "resourceLocation": "Classroom 101",
+    "totalShelves": 5
+  },
+  {
+    "id": "2",
+    "name": "Lab Storage",
+    "resourceLocation": "Computer Lab A",
+    "totalShelves": 8
+  },
+  {
+    "id": "3",
+    "name": "Equipment Cabinet",
+    "resourceLocation": "Grand Auditorium",
+    "totalShelves": 6
+  },
+  {
+    "id": "4",
+    "name": "Supply Closet",
+    "resourceLocation": "Chemistry Lab",
+    "totalShelves": 4
+  }
+]

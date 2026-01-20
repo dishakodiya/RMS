@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Projector",
+    "details": "HD Projector with HDMI connectivity",
+    "resourceId": "1"
+  },
+  {
+    "id": "2",
+    "name": "Whiteboard",
+    "details": "Large whiteboard for presentations",
+    "resourceId": "1"
+  },
+  {
+    "id": "3",
+    "name": "Computers",
+    "details": "30 Desktop computers with latest software",
+    "resourceId": "2"
+  },
+  {
+    "id": "4",
+    "name": "Sound System",
+    "details": "Professional sound system with microphones",
+    "resourceId": "3"
+  },
+  {
+    "id": "5",
+    "name": "Stage Lighting",
+    "details": "LED stage lighting system",
+    "resourceId": "3"
+  },
+  {
+    "id": "6",
+    "name": "Lab Equipment",
+    "details": "Complete chemistry lab setup",
+    "resourceId": "5"
+  }
+]
