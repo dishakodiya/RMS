@@ -23,6 +23,7 @@ export default function Navbar() {
     { path: '/maintenance', label: 'Maintenance', icon: 'bi-wrench', roles: ['Admin', 'Approver'] },
     { path: '/reports', label: 'Reports', icon: 'bi-file-earmark-text', roles: ['Admin', 'Approver'] },
     { path: '/users', label: 'Users', icon: 'bi-people', roles: ['Admin'] },
+    
   ];
 
   const filteredNavItems = navItems.filter(item => 
