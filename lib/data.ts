@@ -61,7 +61,8 @@ export interface Maintenance {
   resourceId: string;
   maintenanceType: string;
   scheduledDate: string;
-  status: 'Scheduled' | 'In Progress' | 'Completed';
+  // status: 'Scheduled' | 'In Progress' | 'Completed';
+  status:string;
   notes: string;
 }
 
